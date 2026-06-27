@@ -37,4 +37,4 @@ AVAILABILITY       remote / hybrid · open to IT & security roles
 
 **[ PORTFOLIO ](#)** &nbsp;·&nbsp; **[ LINKEDIN ](#)** &nbsp;·&nbsp; **[ EMAIL ](#)**
 
-<sub><code>RM-2026 · rev 1.0 · datasheet subject to revision</code></sub>
+<sub><code>RM-2026</code></sub>
